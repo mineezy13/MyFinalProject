@@ -1,5 +1,4 @@
 # MyFinalProject
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Final Project</title>
